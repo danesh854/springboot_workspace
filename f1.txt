@@ -1,6 +1,6 @@
-<<<<<<< Updated upstream
+
 hey this is bhanu
-=======
+
 hey my name is danesh
  
->>>>>>> Stashed changes
+this is beeresh
